@@ -1,0 +1,19 @@
+{
+  "name": "apod",
+  "version": "1.0.0",
+  "description": "Apod site captura foto do satélite da NASA através de API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilouchat/apod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilouchat/apod/issues"
+  },
+  "homepage": "https://github.com/nilouchat/apod#readme"
+}
